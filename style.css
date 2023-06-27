@@ -1,0 +1,40 @@
+.head {
+    background-color: rgb(240,240,240);
+    width: 329px;
+    height: 200px;
+    border-radius: 23px;
+    margin: 0 auto;
+    margin-top: 14em;
+    box-shadow: 0 0 5px rgb(161 155 155);
+	text-align:center;
+}
+
+.head img {
+    background-color: rgb(240,240,240);
+    width: 35px;
+    height: 35px;
+    padding: 0.7em;
+    position: relative;
+    left: -2%;
+    top: -1.8em;
+    box-shadow: 0px 0px 5px rgb(161 155 155);
+    border-radius: 50%;
+
+}
+
+h1 {
+    margin-top: 5.5px;
+    font-size: 1.7em;
+    font-family: 'Abel', sans-serif;
+    color: rgb(104,104,104);
+}
+
+p {
+    margin-top: -0.5em;
+    font-size: 2em;
+    color: rgb(188,188,188);
+    font-family:'Wire One', sans-seri;
+}
+
+
+
